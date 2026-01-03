@@ -13,6 +13,7 @@ __(all of mods will show v1.0, i will not implement auto-update mods because som
 - Open mods folder
 - Enable/Disable/Delete a specific mod
 - Mod details
+- Validate Mods (checks for corrupted zip files, duplicates, etc)
 - Auto-check for updates on startup (in Settings menu)
 - Custom Mods Folder/Path (in Settings menu)
 - UI Theme: **Dark**, **Light** (in Settings menu)
