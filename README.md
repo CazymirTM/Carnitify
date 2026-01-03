@@ -1,5 +1,6 @@
 # Carnitify - A BeamNG Mod Manager
 A mod manager for BeamNG.drive with multiple features. 
+
 __(all of mods will show v1.0, i will not implement auto-update mods because some of you and me use paid mods or mods that aren't in the official beamng site, so i will not allow piracy, it will remain like this)__
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-white?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Carnitify/releases/latest)
