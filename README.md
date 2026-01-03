@@ -1,6 +1,7 @@
 # Carnitify
 A mod manager for BeamNG.drive with multiple features.
-Download
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-gray?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Carnitify/releases/latest)
 
 ## ⚙️ Features
 - Auto-Mod folder scanning
