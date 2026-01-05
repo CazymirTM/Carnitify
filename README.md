@@ -18,4 +18,4 @@ __(all of mods will show v1.0, i will not implement auto-update mods because som
 - Custom Mods Folder/Path (in Settings menu)
 - UI Theme: **Dark**, **Light** (in Settings menu)
 
-![GUI of the program](CARNITIFYUI.png)
+
