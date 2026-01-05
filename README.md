@@ -19,4 +19,4 @@ __(all of mods will show v1.0, i will not implement auto-update mods because som
 - UI Theme: **Dark**, **Light** (in Settings menu)
 
 ### ♣️ Preview of the manager:
-![GUI of the program](CARNITIFYUI.png)
+
