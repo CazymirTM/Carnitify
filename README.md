@@ -19,4 +19,6 @@ __(all of mods will show v1.0, i will not implement auto-update mods because som
 - UI Theme: **Dark**, **Light** (in Settings menu)
 
 ### ♣️ Preview of the manager:
-
+![GUI of the program](carnitify.png)
+![GUI of the program](cntfmoddetailpreview.png)
+![GUI of the program](cntfsettingsmenu.png)
