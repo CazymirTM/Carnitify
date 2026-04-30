@@ -15,7 +15,7 @@ __(all of mods will show v1.0, i will not implement auto-update mods because som
 - Mod details
 - Validate Mods (checks for corrupted zip files, duplicates, etc)
 - Auto-check for updates on startup (in Settings menu)
-- Custom Mods Folder/Path (in Settings menu)
+- Custom Mods Folder/Path (Removed in the latest update because beamng engine is strict to the mods folder from localappdata only)
 - UI Theme: **Dark**, **Light** (in Settings menu)
 
 ### ♣️ Preview of the manager:
